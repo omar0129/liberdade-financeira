@@ -1,0 +1,116 @@
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Caminho para a Liberdade Financeira</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #fffaf0;
+      color: #222;
+    }
+
+    header {
+      background: linear-gradient(to right, #f7931e, #fcb045);
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      margin-top: 1rem;
+      font-size: 1.2rem;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 3rem auto;
+      padding: 0 1rem;
+    }
+
+    .ebook-img {
+      max-width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .description {
+      margin-top: 2rem;
+      font-size: 1.1rem;
+      line-height: 1.6;
+    }
+
+    ul {
+      margin-top: 1rem;
+      padding-left: 1.5rem;
+    }
+
+    ul li {
+      margin-bottom: 0.7rem;
+    }
+
+    .cta {
+      text-align: center;
+      margin: 3rem 0;
+    }
+
+    .cta a {
+      background: #f7931e;
+      color: white;
+      padding: 1rem 2rem;
+      text-decoration: none;
+      font-size: 1.2rem;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+
+    .cta a:hover {
+      background: #e67800;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Caminho para a Liberdade Financeira</h1>
+    <p>Um guia prático para organizar, poupar e prosperar</p>
+  </header>
+
+  <div class="container">
+    <img src="https://via.placeholder.com/800x500.png?text=Capa+do+E-book" alt="Capa do e-book" class="ebook-img" />
+
+    <div class="description">
+      <p>Descubra como transformar sua vida financeira com um passo a passo acessível, realista e eficaz. Com este e-book você vai aprender a:</p>
+      <ul>
+        <li>Organizar seu orçamento pessoal</li>
+        <li>Quitar dívidas e evitar novas armadilhas</li>
+        <li>Criar uma reserva de emergência</li>
+        <li>Investir mesmo com pouco dinheiro</li>
+        <li>Buscar fontes de renda extra</li>
+      </ul>
+    </div>
+
+    <div class="cta">
+      <a href="https://seulink.com/ebook" target="_blank">Comprar Agora</a>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Caminho Financeiro. Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
